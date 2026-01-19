@@ -1,0 +1,2 @@
+-- database: :memory:
+SELECT UPPER(FIRST_NAME) FROM WORKER;

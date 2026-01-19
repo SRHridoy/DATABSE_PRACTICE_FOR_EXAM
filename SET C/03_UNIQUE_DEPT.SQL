@@ -1,0 +1,2 @@
+-- database: :memory:
+SELECT DISTINCT(DEPARTMENT) FROM WORKER;

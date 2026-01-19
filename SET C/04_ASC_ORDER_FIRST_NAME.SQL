@@ -1,0 +1,3 @@
+-- database: :memory:
+SELECT * FROM WORKER
+ORDER BY FIRST_NAME DESC;
